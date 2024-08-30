@@ -1,0 +1,12 @@
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\bin\Debug\net7.0\IntroSE.Kanban.Backend.deps.json
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\bin\Debug\net7.0\IntroSE.Kanban.Backend.dll
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\bin\Debug\net7.0\IntroSE.Kanban.Backend.pdb
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\IntroSE.Kanban.Backend.dll
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\refint\IntroSE.Kanban.Backend.dll
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\IntroSE.Kanban.Backend.pdb
+C:\Users\gilba\Source\Repos\BGU-SE-Intro\2022-2023-2023-2024-06\Backend\obj\Debug\net7.0\ref\IntroSE.Kanban.Backend.dll
